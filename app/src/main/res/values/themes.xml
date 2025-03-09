@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CRUDpersonalizado" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personaliza tu tema aquí -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CRUDpersonalizado" parent="Base.Theme.CRUDpersonalizado" />
+</resources>
